@@ -1,0 +1,62 @@
+{
+  "tokens.1inch.eth": {
+    "name": "1inch",
+    "homepage": ""
+  },
+  "tokenlist.aave.eth": {
+    "name": "Aave Token List",
+    "homepage": ""
+  },
+  "defi.cmc.eth": {
+    "name": "CMC DeFi",
+    "homepage": ""
+  },
+  "stablecoin.cmc.eth": {
+    "name": "CMC Stablecoin",
+    "homepage": ""
+  },
+  "erc20.cmc.eth": {
+    "name": "CMC200 ERC20",
+    "homepage": ""
+  },
+  "https://www.coingecko.com/tokens_list/uniswap/defi_100/v_0_0_0.json": {
+    "name": "CoinGecko DeFi 100",
+    "homepage": ""
+  },
+  "https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json": {
+    "name": "Compound",
+    "homepage": ""
+  },
+  "https://defiprime.com/defiprime.tokenlist.json": {
+    "name": "Defiprime",
+    "homepage": ""
+  },
+  "tokenlist.dharma.eth": {
+    "name": "Dharma Token List",
+    "homepage": ""
+  },
+  "t2crtokens.eth": {
+    "name": "Kleros T2CR",
+    "homepage": ""
+  },
+  "https://app.tryroll.com/tokens.json": {
+    "name": "Roll Social Money",
+    "homepage": ""
+  },
+  "synths.snx.eth": {
+    "name": "Synthetix",
+    "homepage": ""
+  },
+  "https://gateway.ipfs.io/ipns/tokens.uniswap.org": {
+    "name": "Uniswap Default List",
+    "homepage": ""
+  },
+  "https://umaproject.org/uma.tokenlist.json": {
+    "name": "UMA",
+    "homepage": ""
+  },
+  "tokenlist.zerion.eth": {
+    "name": "Zerion Explore",
+    "homepage": ""
+  }
+}
